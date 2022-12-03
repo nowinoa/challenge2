@@ -341,3 +341,23 @@ header {
         justify-items: center;
     }
 }
+/* Contact */
+.contact {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.contact p {
+    text-align: center;
+   
+}
+.social_icons {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Elimina la seccion de education */
+/* Añade tus skills en ul */
+/* Añade un parrafo de contacto */
+/* Añade el email y underlined */
+/* Añade los iconos de social media - indeed ?/ github / email */
