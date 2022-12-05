@@ -404,10 +404,6 @@ header {
     flex-direction: column;
     row-gap:  40px;
 }
-
-#link {
-    cursor: pointer;
-}
 .gmail {
     display: flex;
     flex-direction: column;
