@@ -166,13 +166,22 @@ header {
         height: 78.5vh;
     }
 }
-@media (max-width: 380px) {
-    .hero video {
-        height: 118.5vh;
-    }
+@media (max-width: 480px) {
     .hero  {
-        height: 118.5vh;
+        height: 95vh;
     }
+    .hero video {
+        height: 100%;
+    }
+}
+@media (max-width: 380px) {
+    .hero  {
+        height: 105vh;
+    }
+    .hero video {
+        height: 100%;
+    }
+   
 }
 
 .showcase {
@@ -387,20 +396,20 @@ header {
 
 /* Contact */
 .contact {
-    width: 70%;
+    width: 90%;
     height: 40vh;
     margin: 20px auto;
+    padding: 15px;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    row-gap:  40px;
 }
 .gmail {
     display: flex;
     flex-direction: column;
     color: #fff;
-    justify-content: center;
+    row-gap: 20px;
     align-items: center;
-    gap: 10px;
 }
 .gmail a {
     text-decoration: underline;
@@ -411,7 +420,7 @@ header {
 }
 .social_icons {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 /* footer */
