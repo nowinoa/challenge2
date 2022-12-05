@@ -365,7 +365,7 @@ footer {
         
     }
     /* Banner possible breakpoints */
-    @media (min-width: 1020px) {
+    @media (max-width: 1280px) {
         .hero {
             height: 55vh;
         
