@@ -13,7 +13,7 @@ The links on the header will take you through the different sections of this web
 
 On the projects section, you can also click to see some of the websites I have already uploaded, but some of the links will redirect you to my GitHub account because I haven't uploaded the pages yet.
 
-Finally, on the contact section two icons are clickables (indeed and GitHub).
+Finally, on the contact section two icons are clickables (linkedin and GitHub).
 
 ```md
     ![contact](images/contact.png)
