@@ -20,11 +20,10 @@ On the projects section, you can also click to see some of the websites I have a
 
 <img src="./images/project-card.png="Alt text" title="project card">
 
+
 Finally, on the contact section two icons are clickables (linkedin and GitHub).
 
 <img src="./images/contact.png="Alt text" title="contact icons">
-    
-    
 
 ## Credits 
 Bootcamp: UK-VIRT-FE-PT-11-2022-U-LOLC-TWTH-4
