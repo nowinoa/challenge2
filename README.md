@@ -15,13 +15,14 @@ On the projects section, you can also click to see some of the websites I have a
 
 Finally, on the contact section two icons are clickables (linkedin and GitHub).
 
-```md
+
     ![contact](images/contact.png)
-    ```
+    
 
 ## Credits 
 Bootcamp: UK-VIRT-FE-PT-11-2022-U-LOLC-TWTH-4
 APT Code
+
 ## License
 MIT License
 
